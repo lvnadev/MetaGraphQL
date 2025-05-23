@@ -67,12 +67,6 @@ print("status", response.status_code)
 print("response", response.json())
 ```
 
----
-
-Sure! Here's your modified **example response** section, rewritten to reflect the **cleaned-up JSON** you provided earlier for *Gorilla Tag*:
-
----
-
 ## Example Response
 
 Here’s a **sample response** for the app *Gorilla Tag* (trunicated) (`appid: 3262063300561328`):
